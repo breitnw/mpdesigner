@@ -33,6 +33,10 @@
         modifier = drv: pkgs.haskell.lib.addBuildTools drv [
           hp.cabal-install
           hp.haskell-language-server
+
+          # not required to build (since we override sdl3), but needed for
+          # haskell-language-server (or cabal build) to work properly
+          pkgs-unstable.sdl3
         ];
       };
     });
