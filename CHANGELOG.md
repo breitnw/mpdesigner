@@ -1,4 +1,4 @@
-# Revision history for mpdesigner
+# Revision history for clover
 
 ## 0.1.0.0 -- YYYY-mm-dd
 

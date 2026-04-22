@@ -1,5 +1,5 @@
 {
-  description = "Haskell development flake for mpdesigner";
+  description = "Haskell development flake for clover";
 
   inputs.nixpkgs.url = "nixpkgs/nixos-25.11";
   inputs.nixpkgs-unstable.url = "nixpkgs/nixos-unstable";

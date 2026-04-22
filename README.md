@@ -1,5 +1,6 @@
-# mpdesigner
-Design your own awesome graphical MPD client
+# clover
+
+A massively customizable graphical MPD client for music collectors and visualization lovers
 
 > 🚧 This project is under construction!
 

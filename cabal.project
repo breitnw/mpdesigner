@@ -4,4 +4,4 @@ source-repository-package
 
 flags: -pkgconfig
 
-packages: ./mpdesigner.cabal
+packages: ./clover.cabal
